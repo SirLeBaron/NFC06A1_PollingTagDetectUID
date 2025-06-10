@@ -1,0 +1,4 @@
+../Middlewares/ST/ndef/Src/message/ndef_types.c:74:12:ndefRecordToType	6
+../Middlewares/ST/ndef/Src/message/ndef_types.c:166:12:ndefTypeToRecord	3
+../Middlewares/ST/ndef/Src/message/ndef_types.c:183:12:ndefRecordSetNdefType	9
+../Middlewares/ST/ndef/Src/message/ndef_types.c:209:17:ndefRecordGetNdefType	8

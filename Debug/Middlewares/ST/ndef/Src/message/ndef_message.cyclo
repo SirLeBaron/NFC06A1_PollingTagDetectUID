@@ -1,0 +1,8 @@
+../Middlewares/ST/ndef/Src/message/ndef_message.c:61:20:ndefAllocRecord	2
+../Middlewares/ST/ndef/Src/message/ndef_message.c:82:12:ndefMessageInit	2
+../Middlewares/ST/ndef/Src/message/ndef_message.c:100:12:ndefMessageGetInfo	4
+../Middlewares/ST/ndef/Src/message/ndef_message.c:129:10:ndefMessageGetRecordCount	2
+../Middlewares/ST/ndef/Src/message/ndef_message.c:143:12:ndefMessageAppend	5
+../Middlewares/ST/ndef/Src/message/ndef_message.c:190:12:ndefMessageDecode	8
+../Middlewares/ST/ndef/Src/message/ndef_message.c:237:12:ndefMessageEncode	9
+../Middlewares/ST/ndef/Src/message/ndef_message.c:287:13:ndefMessageFindRecordType	5

@@ -1,0 +1,4 @@
+../Middlewares/ST/ndef/Src/message/ndef_type_aar.c:74:12:ndefRtdAarInit	3
+../Middlewares/ST/ndef/Src/message/ndef_type_aar.c:99:12:ndefGetRtdAar	4
+../Middlewares/ST/ndef/Src/message/ndef_type_aar.c:119:12:ndefRecordToRtdAar	4
+../Middlewares/ST/ndef/Src/message/ndef_type_aar.c:138:12:ndefRtdAarToRecord	4

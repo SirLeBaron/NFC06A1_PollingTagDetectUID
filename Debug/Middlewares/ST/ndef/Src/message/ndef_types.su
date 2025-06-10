@@ -1,0 +1,4 @@
+../Middlewares/ST/ndef/Src/message/ndef_types.c:74:12:ndefRecordToType	24	static
+../Middlewares/ST/ndef/Src/message/ndef_types.c:166:12:ndefTypeToRecord	16	static
+../Middlewares/ST/ndef/Src/message/ndef_types.c:183:12:ndefRecordSetNdefType	24	static
+../Middlewares/ST/ndef/Src/message/ndef_types.c:209:17:ndefRecordGetNdefType	16	static

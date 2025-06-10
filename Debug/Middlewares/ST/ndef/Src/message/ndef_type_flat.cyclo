@@ -1,0 +1,6 @@
+../Middlewares/ST/ndef/Src/message/ndef_type_flat.c:68:17:ndefFlatPayloadTypePayloadGetLength	3
+../Middlewares/ST/ndef/Src/message/ndef_type_flat.c:80:23:ndefFlatPayloadTypePayloadItem	5
+../Middlewares/ST/ndef/Src/message/ndef_type_flat.c:100:12:ndefFlatPayloadTypeInit	3
+../Middlewares/ST/ndef/Src/message/ndef_type_flat.c:120:12:ndefGetFlatPayloadType	4
+../Middlewares/ST/ndef/Src/message/ndef_type_flat.c:136:12:ndefRecordToFlatPayloadType	6
+../Middlewares/ST/ndef/Src/message/ndef_type_flat.c:164:12:ndefFlatPayloadTypeToRecord	5

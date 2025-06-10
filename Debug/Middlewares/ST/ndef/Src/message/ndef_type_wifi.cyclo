@@ -1,0 +1,7 @@
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:170:17:ndefWifiPayloadGetLength	3
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:193:23:ndefWifiToPayloadItem	15
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:323:12:ndefWifiInit	3
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:348:12:ndefGetWifi	4
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:372:19:ndefPayloadToWifi	16
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:456:12:ndefRecordToWifi	6
+../Middlewares/ST/ndef/Src/message/ndef_type_wifi.c:482:12:ndefWifiToRecord	5
